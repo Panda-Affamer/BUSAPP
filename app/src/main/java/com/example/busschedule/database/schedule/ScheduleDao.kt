@@ -2,6 +2,7 @@ package com.example.busschedule.database.schedule
 
 import androidx.room.Dao
 import androidx.room.Query
+import com.example.busschedule.database.schedule.Schedule
 
 @Dao
 interface ScheduleDao {
